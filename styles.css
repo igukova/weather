@@ -1,23 +1,22 @@
 body {
   font-family: "Courier New", Courier, monospace;
-  background-image: url(clouds.jpg);
+  background-image: url(src/img/clouds.jpg);
 }
 div.container {
   margin-left: 30px;
   margin-top: 30px;
   padding: 20px 0 40px 40px;
   border: 1px solid grey;
-  max-width: 900px;
+  max-width: 1000px;
   font-family: Poppins;
   background: rgba(255, 255, 255, 0.37) 20%;
 
   border-radius: 20px;
 }
-.form-control {
+.typecit {
   max-width: 600px;
   text-decoration: underline;
   text-align: center;
-  padding: 20px 20px 40px 40px;
 }
 #current-temperature {
   text-align: left;
@@ -26,9 +25,9 @@ div.container {
   padding: 50px 10px;
 }
 .today {
-  margin: 20px 10px 10px 0;
+  margin: 20px 10px 20px 0;
   padding: 20px 0 20px 10px;
-  max-width: 500px;
+  max-width: 600px;
   border: 1px solid grey;
   border-radius: 40px;
 }
