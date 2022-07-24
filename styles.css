@@ -1,6 +1,6 @@
 body {
   font-family: "Courier New", Courier, monospace;
-  background-image: url(src/img/clouds.jpg);
+  background-image: url(clouds.jpg);
 }
 div.container {
   margin-left: 30px;
@@ -17,6 +17,7 @@ div.container {
   max-width: 600px;
   text-decoration: underline;
   text-align: center;
+  padding: 20px 0 40px 40px;
 }
 #current-temperature {
   text-align: left;
