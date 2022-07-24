@@ -26,7 +26,8 @@ div.container {
   padding: 50px 10px;
 }
 .today {
-  padding: 20px 0 20px 30px;
+  margin: 20px 10px 20px 0;
+  padding: 20px 0 20px 10px;
   max-width: 600px;
   border: 1px solid grey;
   border-radius: 40px;
