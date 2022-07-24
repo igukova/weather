@@ -1,11 +1,11 @@
 body {
   font-family: "Courier New", Courier, monospace;
-  background-image: url(src/img/clouds.jpg);
+  background-image: url(clouds.jpg);
 }
 div.container {
   margin-left: 30px;
   margin-top: 30px;
-  padding: 20px 0 40px 40px;
+  padding: 20px 0 40px 20px;
   border: 1px solid grey;
   max-width: 1000px;
   font-family: Poppins;
