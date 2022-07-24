@@ -17,7 +17,7 @@ div.container {
   max-width: 600px;
   text-decoration: underline;
   text-align: center;
-  padding: 20px 0 40px 40px;
+  padding: 20px 20px 40px 40px;
 }
 #current-temperature {
   text-align: left;
